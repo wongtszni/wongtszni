@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wongtszni
-- 👀 I'm a student of Higher Diploma in Cloud and Data Centre Administration ofHong Kong Institute of Information Technology (HKIIT)
+- 👀 I'm a student of Higher Diploma in Cloud and Data Centre Administration ofHong Kong Institute of Information Technology (HKIIT). 
 - 🌱 I’m currently learning cloud services of AWS and Azure. 
 
 <!---
